@@ -1,16 +1,12 @@
 {
   "name": "spectrum-css-test-asset",
-  "version": "2.0.0-alpha.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "2.0.0-alpha.3",
+  "description": "Assets for visual regression testing",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jianliao/spectrum-css-test-asset.git"
   },
-  "author": "",
+  "author": "jianliao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jianliao/spectrum-css-test-asset/issues"
