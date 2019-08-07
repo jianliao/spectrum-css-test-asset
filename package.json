@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/jianliao/spectrum-css-test-asset/issues"
   },
-  "homepage": "https://github.com/jianliao/spectrum-css-test-asset#readme"
+  "homepage": "https://github.com/jianliao/spectrum-css-test-asset#readme",
+  "dependencies": {
+    "backstopjs": "^4.1.12"
+  }
 }
