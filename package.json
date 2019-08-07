@@ -1,6 +1,6 @@
 {
   "name": "spectrum-css-test-asset",
-  "version": "2.0.0-alpha.7",
+  "version": "2.0.0-alpha.8",
   "description": "Assets for visual regression testing",
   "repository": {
     "type": "git",
@@ -11,8 +11,5 @@
   "bugs": {
     "url": "https://github.com/jianliao/spectrum-css-test-asset/issues"
   },
-  "homepage": "https://github.com/jianliao/spectrum-css-test-asset#readme",
-  "dependencies": {
-    "backstopjs": "^4.1.12"
-  }
+  "homepage": "https://github.com/jianliao/spectrum-css-test-asset#readme"
 }
